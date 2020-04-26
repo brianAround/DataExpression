@@ -1,0 +1,34 @@
+{ "TransactionSummaryList" : [
+  {
+    "JCCo": "12",
+    "Job": "12300-128",
+    "ContractItem": "100",
+    "Amount": "1785250",
+    "User": "jmurty",
+    "ProjectionDate": "03/24/2020 07:09:19"
+  },
+  {
+    "JCCo": "185",
+    "Job": "8567TEST",
+    "ContractItem": "100",
+    "Amount": "497000",
+    "User": "jmurty",
+    "ProjectionDate": "03/24/2020 07:09:19"
+  },
+  {
+    "JCCo": "101",
+    "Job": "0628227C",
+    "ContractItem": "100",
+    "Amount": "15244580",
+    "User": "jmurty",
+    "ProjectionDate": "03/24/2020 07:09:19"
+  },
+  {
+    "JCCo": "12",
+    "Job": "2000-TEST",
+    "ContractItem": "100",
+    "Amount": "2436000",
+    "User": "jmurty",
+    "ProjectionDate": "03/24/2020 07:09:19"
+  }
+] }

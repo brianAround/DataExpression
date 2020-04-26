@@ -1,0 +1,6 @@
+TableName	KeyString	Co	RecType	FieldName	OldValue	NewValue	DateTime	UserName	AuditID	HostName
+bJCCD                         	JCCo: 7 Job: 10710- Phase: 9800-     -      Mth: Apr  1 2020 12:00AM Cost Trans: 135734	7	D	None	None	None	2020-04-24 14:05:59.020000	PRIM\dwilson	141461072	VNYPVW-XAEP14	
+bJCCD                         	JCCo: 7 Job: 10710- Phase: 9800-     - Mth: Apr  1 2020 12:00AM Cost Trans: 135735	7	D	None	None	None	2020-04-24 14:05:59.033000	PRIM\dwilson	141461073	VNYPVW-XAEP14	
+bJCCD                         	JCCo: 7 Job: 10710- Phase: 0100-     - Mth: Apr  1 2020 12:00AM Cost Trans: 135739	7	D	None	None	None	2020-04-24 14:22:31.313000	PRIM\dwilson	141461186	VNYPVW-XAEP14	
+bJCCD                         	JCCo: 7 Job: 10710- Phase: 9800-     -      Mth: Apr  1 2020 12:00AM Cost Trans: 136147	7	D	None	None	None	2020-04-24 14:22:33.297000	PRIM\dwilson	141461187	VNYPVW-XAEP14	
+bJCCD                         	JCCo: 7 Job: 10710- Phase: 9800-     - Mth: Apr  1 2020 12:00AM Cost Trans: 136148	7	D	None	None	None	2020-04-24 14:22:33.307000	PRIM\dwilson	141461188	VNYPVW-XAEP14	

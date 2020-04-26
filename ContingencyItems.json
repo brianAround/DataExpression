@@ -1,0 +1,54 @@
+{ "TransactionSummaryList" : [
+  {
+    "ViewpointID": "WEST",
+    "JCCo": "130",
+    "Job": "30529999",
+    "ProjectionCode": "0699900000090",
+    "ProjectionDate": "03/25/2020 07:09:19",
+    "PhaseGroup": "130",
+    "Phase": "05999000000",
+    "CostType": "90",
+    "Description": "EcoSys Projection Import",
+    "Amount": "10000",
+    "User": "jmurty"
+  },
+  {
+    "ViewpointID": "EAST",
+    "JCCo": "7",
+    "Job": "10774",
+    "ProjectionCode": "0599- 9000-  000-90",
+    "ProjectionDate": "03/25/2020 07:09:19",
+    "PhaseGroup": "7",
+    "Phase": "0599- 9000-  000",
+    "CostType": "90",
+    "Description": "EcoSys Projection Import",
+    "Amount": "20000",
+    "User": "jmurty"
+  },
+  {
+    "ViewpointID": "EAST",
+    "JCCo": "7",
+    "Job": "10771",
+    "ProjectionCode": "0599- 9000-  000-90",
+    "ProjectionDate": "03/25/2020 07:09:19",
+    "PhaseGroup": "7",
+    "Phase": "0599- 9000-  000",
+    "CostType": "90",
+    "Description": "EcoSys Projection Import",
+    "Amount": "20000",
+    "User": "jmurty"
+  },
+  {
+    "ViewpointID": "EAST",
+    "JCCo": "12",
+    "Job": "12300-128",
+    "ProjectionCode": "0199- 9000-  000-90",
+    "ProjectionDate": "03/24/2020 07:09:19",
+    "PhaseGroup": "12",
+    "Phase": "0599- 9000-  000",
+    "CostType": "90",
+    "Description": "EcoSys Projection Import",
+    "Amount": "15000",
+    "User": "jmurty"
+  }
+] }
